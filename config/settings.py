@@ -1,5 +1,5 @@
 """Configuration settings for the financial modeling project.
-全局配置
+配置设置 - 财务建模项目的全局配置
 """
 
 import os
